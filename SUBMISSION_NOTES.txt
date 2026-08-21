@@ -1,0 +1,15 @@
+3MTT GD-01 — Naija Civic Quest
+
+This is a runnable Phaser web demo.
+Recommended demo flow:
+1. Open index.html (or run python -m http.server 8000).
+2. Start Quest.
+3. Pick All Topics.
+4. Answer questions.
+5. Show correct/incorrect feedback.
+6. Complete the quest and show the score.
+
+Before submission:
+- Replace/add your team names in README.md.
+- Record the required 2–3 minute gameplay video.
+- Test the project on the browser/device you will use for the demo.
